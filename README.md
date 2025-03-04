@@ -46,7 +46,7 @@ This project implements a simple character-level bigram language model using Rus
 
 Run the project with Cargo. This will start the training process and, once completed, generate sample text:
 
-```bash
+```rust
 cargo run --release
 ```
 
